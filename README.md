@@ -1,0 +1,1 @@
+# Retail-inventory-analysis-SQL-Power-BI-
